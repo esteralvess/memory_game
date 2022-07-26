@@ -10,4 +10,4 @@
 
 <img align="center" height="300" width="320" src="img/jogo_dois.png">
 
-<h3>Para jogar click aqui<a href="https://memorygame.esteralvess.repl.co/"></h3>
+<h3>Para jogar acesse: https://memorygame.esteralvess.repl.co/></h3>
